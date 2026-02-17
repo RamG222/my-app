@@ -32,9 +32,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="bg-gray-800 text-white text-center py-4">
-        <h3 className="text-sm">
-          © {new Date().getFullYear()} Ram. All rights reserved.
-        </h3>
+        <h3 className="text-sm"></h3>
       </footer>
     </div>
   );
